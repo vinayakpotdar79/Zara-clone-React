@@ -1,12 +1,27 @@
-# React + Vite
+# Zara Clone - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **frontend-only Zara clone** built using **React.js**. It mimics the UI and functionality of the official Zara website, allowing users to browse products based on categories like **Men, Women, and Kids**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+| ![Demo 1](src/assets/demo1.png) | ![Demo 2](src/assets/demo2.png) |
+|----------------------------------|----------------------------------|
+| ![Demo 3](src/assets/demo3.png) | ![Demo 4](src/assets/demo4.png) |
+| ![Demo 5](src/assets/demo5.png) | ![Demo 6](src/assets/demo6.png) |      
+   
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
+✅ **Homepage** with Zara's product collection.  
+✅ **Category-based Filtering** (Men, Women, Kids).  
+✅ **Slideshow Animation** for featured images.  
+✅ **Smooth Navigation** with React Router.  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+- **React.js** (Frontend framework)
+- **CSS** (For styling & animations)
+- **JavaScript (ES6+)** (Logic & interactivity)
+- **React Hooks** (`useState`, `useEffect`, `useRef`)
+- **JSON File for Data** *(temporary product storage)*
